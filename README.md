@@ -1,6 +1,6 @@
 # Aplicativo-de-video-games
 
-Este projeto foi criado por conta própria na plataforma Expo.io, com finalidade de conclusão do curso de desenvolvimento de aplicativos na faculdade FEI (Fundação Educacional Inaciana), que envolvia uso de JavaScript.
+Este projeto foi criado por conta própria na plataforma Expo.io, com finalidade de conclusão do curso de desenvolvimento de aplicativos na faculdade FEI (Fundação Educacional Inaciana), que envolvia o uso de JavaScript.
 
 O projeto consistia em criar uma aplicação com o tema que quiséssemos, portanto que seguissem as seguintes propostas de funcionalidades:
 
